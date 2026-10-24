@@ -68,7 +68,7 @@ Universal feature extraction, new models, new weights, new test sets.
   * CSPResNeXt50 - 80.0 top-1
   * DPN68b - 79.2 top-1
   * EfficientNet-Lite0 (non-TF ver) - 75.5 (submitted by [@hal-314](https://github.com/hal-314))
-* Add 'real' labels for ImageNet and ImageNet-Renditions test set, see [`results/README.md`](results/README.md)
+* Add 'real' labels for ImageNet and ImageNet-Renditions test set, see [`results/README.md`](../results/README.md)
 * Test set ranking/top-n diff script by [@KushajveerSingh](https://github.com/KushajveerSingh)
 * Train script and loader/transform tweaks to punch through more aug arguments
 * README and documentation overhaul. See initial (WIP) documentation at https://rwightman.github.io/pytorch-image-models/
