@@ -35,7 +35,7 @@ Please see [mmsegmentation](https://github.com/open-mmlab/mmsegmentation/blob/ma
 
 clone the repository locally:
 ```
-git clone https://github.com/fudan-zvg/SeaFormer
+git clone https://github.com/LogosIntelligenceLab/SeaFormer
 cd SeaFormer/seaformer-seg
 mkdir -p modelzoos/classification
 ```
